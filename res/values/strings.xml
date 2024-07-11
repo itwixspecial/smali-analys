@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="_continue">Продовжити</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="account_type">Категорія обліку:</string>
+    <string name="actualization_date">Дата уточнення даних:</string>
+    <string name="address">Адреса проживання:</string>
+    <string name="address_description">Адреса проживання</string>
+    <string name="address_thanks_title">"Дякуємо,
+адресу оновлено"</string>
+    <string name="alert_action_ok">Зрозуміло</string>
+    <string name="alert_check_your_data_again_title">Перевірте ваші дані ще раз.</string>
+    <string name="alert_data_not_found_description">Оновіть документ або виправте дані через бокове меню</string>
+    <string name="alert_data_not_found_title">Дані не знайдено</string>
+    <string name="alert_data_request_expired_description">Оновіть документ або зверніться до підтримки застосунку через бокове меню</string>
+    <string name="alert_data_request_expired_title">Час дії запиту на дані закінчився</string>
+    <string name="alert_exceeded_amount_of_pin_entering_auth_again">Авторизуватися</string>
+    <string name="alert_exceeded_amount_of_pin_entering_description">Пройдіть повторну авторизацію у застосунку</string>
+    <string name="alert_exceeded_amount_of_pin_entering_title">Ви ввели неправильний код тричі</string>
+    <string name="alert_forgot_pin_authorize">Авторизуватися</string>
+    <string name="alert_forgot_pin_description">Пройдіть повторну авторизацію у застосунку</string>
+    <string name="alert_forgot_pin_title">Забули код для входу?</string>
+    <string name="alert_no_browser_descritpion">Переконайтесь, що браузер встановлений і працює.</string>
+    <string name="alert_no_browser_title">Не вдалось відкрити посилання</string>
+    <string name="alert_no_internet_action">Спробувати знову</string>
+    <string name="alert_no_internet_description">Перевірте підключення до інтернету та спробуйте знову</string>
+    <string name="alert_no_internet_title">Десь поділося з’єднання</string>
+    <string name="alert_qr_expired">"Час дії коду
+закінчився"</string>
+    <string name="alert_qr_info_not_found">"Дані
+за кодом
+не знайдено"</string>
+    <string name="alert_qr_unavailable_action">Оновити документ</string>
+    <string name="alert_qr_unavailable_description">Щоб отримати QR-код оновіться до Військово-облікового документу</string>
+    <string name="alert_qr_unavailable_title">Код недоступний для даних із реєстру</string>
+    <string name="alert_tech_problem">У нас технічна проблема</string>
+    <string name="alert_tech_problem_description">Вибачте. Будь ласка, спробуйте ще раз</string>
+    <string name="alert_unknown_action">Спробувати знову</string>
+    <string name="allow">Дозволити</string>
+    <string name="allow_biometric_title">Дозвольте вхід за біометричними даними</string>
+    <string name="allow_face_and_touch_id_subtitle">Щоб входити до застосунку за відбитком пальця або скануванням обличчя.</string>
+    <string name="allow_later">Дозволю пізніше</string>
+    <string name="androidx_startup">androidx.startup</string>
+    <string name="apartment_number">Номер квартири</string>
+    <string name="app_name">Резерв+</string>
+    <string name="biometric_prompt_title">Вхід за біометричними даними</string>
+    <string name="birth_date">Дата народження:</string>
+    <string name="call_notification_answer_action">Answer</string>
+    <string name="call_notification_answer_video_action">Video</string>
+    <string name="call_notification_decline_action">Decline</string>
+    <string name="call_notification_hang_up_action">Hang Up</string>
+    <string name="call_notification_incoming_text">Incoming call</string>
+    <string name="call_notification_ongoing_text">Ongoing call</string>
+    <string name="call_notification_screening_text">Screening an incoming call</string>
+    <string name="camera_permission_description">Так ви зможете сканувати QR код</string>
+    <string name="camera_permission_shouldShowRationale_btn">Відкрити налаштування</string>
+    <string name="camera_permission_title">Дозвольте Резерв+ доступ до вашої камери</string>
+    <string name="cancel">Скасувати</string>
+    <string name="card_title">"Військово-
+обліковий
+документ"</string>
+    <string name="card_title_old">"Інформація
+з реєстру
+Оберіг"</string>
+    <string name="certificate_preparing">"Отримуємо інформацію з
+реєстру"</string>
+    <string name="certificate_reservation_expiration">Бронювання до:</string>
+    <string name="certificate_state_line" formatted="false">%1s • Документ оновлено о %2s</string>
+    <string name="certificate_status_need_clarification_tip">Інформація в реєстрі Оберіг неповна. Будь ласка, зверніться в ТЦК за місцем реєстрації або постійного проживання для уточнення даних.</string>
+    <string name="certificate_status_wanted_tip">Виявлені порушення правил військового обліку. Будь-ласка, зверніться у ТЦК за місцем реєстрації або проживання для уточнення даних.</string>
+    <string name="check_data_title">Перевірте дані</string>
+    <string name="check_your_data_title">Перевірте та підтвердіть ваші дані</string>
+    <string name="checking">Перевірка</string>
+    <string name="checking_code_subtitle">Перевірка коду …</string>
+    <string name="choose_city">Оберіть місто</string>
+    <string name="choose_country">Оберіть країну</string>
+    <string name="choose_district">Оберіть область</string>
+    <string name="city">Місто</string>
+    <string name="close">Закрити</string>
+    <string name="close_drawer">Close navigation menu</string>
+    <string name="close_sheet">Close sheet</string>
+    <string name="code_valid_until">Код дійсний до %s</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">73b7a8f005954363b192182e5370b6d8</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play services availability</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services, which are not supported by your device."</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="confirm">Підтвердити</string>
+    <string name="confirm_device_credential_password">Use password</string>
+    <string name="confirm_new_pin_title">"Повторіть код
+з 4 цифр"</string>
+    <string name="confirm_pin_subtitle">Підтвердьте код.</string>
+    <string name="confirm_pin_title">"Повторіть код з
+4 цифр"</string>
+    <string name="confirmation_code_email_subtitle">Введіть код, що прийшов на електронну пошту.</string>
+    <string name="confirmation_code_phone_subtitle">Введіть код, що прийшов на ваш номер.</string>
+    <string name="confirmation_code_title">Код підтвердження</string>
+    <string name="contact_email">cabinet-support@mil.ua</string>
+    <string name="content_description_back">Назад</string>
+    <string name="content_description_delete">Видалити</string>
+    <string name="content_description_support">Підтримка</string>
+    <string name="content_description_touch_id">Сканер відбитку пальця</string>
+    <string name="copy_number_of_device_title">Копіювати номер пристрою</string>
+    <string name="create_pin_subtitle">"Цей код ви будете вводити для
+входу у застосунок Резерв+."</string>
+    <string name="create_pin_title">"Придумайте код
+з 4 цифр"</string>
+    <string name="data_not_available">Дані відсутні</string>
+    <string name="data_not_specified">Дані не вказано</string>
+    <string name="data_partially_specified">Дані неповні</string>
+    <string name="date_of_birth">Дата народження</string>
+    <string name="default_country">Україна</string>
+    <string name="default_error_message">Invalid input</string>
+    <string name="default_error_msg">Unknown error</string>
+    <string name="default_popup_window_title">Pop-Up Window</string>
+    <string name="deferral_date">Відстрочка до:</string>
+    <string name="deferral_reason_default">інше</string>
+    <string name="deferral_reason_title">Підстава зняття чи виключення:</string>
+    <string name="deferral_title">Тип відстрочки:</string>
+    <string name="delete">Видалити</string>
+    <string name="describe_problem_input_hint">Текстовий опис ситуації</string>
+    <string name="describe_problem_title">Опишіть ситуацію</string>
+    <string name="devices_title">Пристрої, на яких встановлено Резерв+</string>
+    <string name="district">Область</string>
+    <string name="do_you_want_to_exit">"Хочете вийти із
+застосунку?"</string>
+    <string name="download_pdf">Завантажити PDF</string>
+    <string name="email">Email:</string>
+    <string name="email_description">Email адреса</string>
+    <string name="email_thanks_title">"Дякуємо,
+email оновлено"</string>
+    <string name="enter_code_hint">Введіть код</string>
+    <string name="enter_current_pin_subtitle">Це має бути ваш поточний код</string>
+    <string name="enter_current_pin_title">"Введіть код з 4
+цифр"</string>
+    <string name="enter_new_pin_subtitle">Цей код ви будете вводити для входу у застосунок Резерв+.</string>
+    <string name="enter_new_pin_title">"Придумайте код
+з 4 цифр"</string>
+    <string name="enter_pin_forgot_pin">Не пам’ятаю код для входу</string>
+    <string name="enter_pin_title">Код для входу</string>
+    <string name="enter_your_email_hint">Введіть свій email</string>
+    <string name="fcm_fallback_notification_channel_label">Miscellaneous</string>
+    <string name="fill_check_data_title">Заповніть та перевірте дані</string>
+    <string name="fingerprint_dialog_touch_sensor">Touch the fingerprint sensor</string>
+    <string name="fingerprint_error_hw_not_available">Fingerprint hardware not available.</string>
+    <string name="fingerprint_error_hw_not_present">This device does not have a fingerprint sensor</string>
+    <string name="fingerprint_error_lockout">Too many attempts. Please try again later.</string>
+    <string name="fingerprint_error_no_fingerprints">No fingerprints enrolled.</string>
+    <string name="fingerprint_error_user_canceled">Fingerprint operation canceled by user.</string>
+    <string name="fingerprint_not_recognized">Not recognized</string>
+    <string name="for_enter_you_need_to_auth_again">"Для входу буде потрібна повторна
+авторизація"</string>
+    <string name="foreign_card_description">"З громадянами України, що проживають за кордоном, ТЦК та СП може зв'язатися на електронну пошту."</string>
+    <string name="foreign_card_title">Я проживаю за кордоном</string>
+    <string name="full_info">Повна інформація</string>
+    <string name="full_name_acronym">ПІБ</string>
+    <string name="gcm_defaultSenderId">638948452516</string>
+    <string name="generic_error_no_device_credential">No PIN, pattern, or password set.</string>
+    <string name="generic_error_no_keyguard">This device does not support PIN, pattern, or password.</string>
+    <string name="generic_error_user_canceled">Authentication canceled by user.</string>
+    <string name="google_api_key">AIzaSyD_c5IE2kRg-7EjXuO6UrwG0Oe5QQpCcl4</string>
+    <string name="google_app_id">1:638948452516:android:c182d0c8bcaf67e0911e31</string>
+    <string name="google_crash_reporting_api_key">AIzaSyD_c5IE2kRg-7EjXuO6UrwG0Oe5QQpCcl4</string>
+    <string name="google_storage_bucket">modu-rezervplus.appspot.com</string>
+    <string name="health_decision">Постанова ВЛК:</string>
+    <string name="hello_with_first_name_next_line">"Вітаємо,
+%s"</string>
+    <string name="house_number">Номер будинку</string>
+    <string name="identification_number">РНОКПП:</string>
+    <string name="in_progress">In progress</string>
+    <string name="indeterminate">Partially checked</string>
+    <string name="last_login">Останній вхід %s</string>
+    <string name="m3c_bottom_sheet_collapse_description">Collapse bottom sheet</string>
+    <string name="m3c_bottom_sheet_dismiss_description">Dismiss bottom sheet</string>
+    <string name="m3c_bottom_sheet_drag_handle_description">Drag handle</string>
+    <string name="m3c_bottom_sheet_expand_description">Expand bottom sheet</string>
+    <string name="m3c_bottom_sheet_pane_title">Bottom Sheet</string>
+    <string name="m3c_dialog">Dialog</string>
+    <string name="menu_app_questions_answers_title">Питання та відповіді</string>
+    <string name="menu_app_support_subtitle">"Напишіть у чат-бот, якщо у вас
+виникли проблеми або питання.
+Працюємо цілодобово."</string>
+    <string name="menu_app_support_title">Служба підтримки</string>
+    <string name="menu_logout_title">Вийти</string>
+    <string name="military_unit_number_description">Номер військової частини</string>
+    <string name="military_unit_number_hint">Введіть номер</string>
+    <string name="missed_data">Дані відсутні</string>
+    <string name="navigation_menu">Navigation menu</string>
+    <string name="no_devices">Не додано жодних пристроїв</string>
+    <string name="not_selected">Not selected</string>
+    <string name="notifications_permission_shouldShowRationale_btn">Відкрити налаштування</string>
+    <string name="notifications_permission_shouldShowRationale_description">Так ви можете отримувати сповіщення</string>
+    <string name="notifications_permission_shouldShowRationale_dismiss_btn">Відміна</string>
+    <string name="notifications_permission_shouldShowRationale_title">Дозвольте Резерв+ доступ до сповіщень</string>
+    <string name="notifications_title">Сповіщення</string>
+    <string name="off">Off</string>
+    <string name="on">On</string>
+    <string name="passport">Серія та номер паспорту:</string>
+    <string name="phone">Телефон:</string>
+    <string name="phone_description">Мобільний номер</string>
+    <string name="phone_thanks_title">"Дякуємо,
+номер оновлено"</string>
+    <string name="pin_changed">"Код для входу
+змінено"</string>
+    <string name="please_confirm_your_address">"Будь ласка,
+підтвердіть вашу
+поточну адресу
+проживання"</string>
+    <string name="please_confirm_your_email">"Будь ласка,
+підтвердіть
+контактну
+email адресу"</string>
+    <string name="please_confirm_your_phone">"Будь ласка,
+підтвердіть ваш
+мобільний номер"</string>
+    <string name="please_wait">Зачекайте, будь ласка</string>
+    <string name="project_id">modu-rezervplus</string>
+    <string name="qr_expiration_date">Термін дії:</string>
+    <string name="range_end">Range end</string>
+    <string name="range_start">Range start</string>
+    <string name="rank">Звання:</string>
+    <string name="reexamination_date">Дата ВЛК:</string>
+    <string name="reload_info">Оновити документ</string>
+    <string name="remove_device">"Видалити
+пристрій"</string>
+    <string name="remove_dialog_title">Ви впевнені, що хочете видалити пристрій?</string>
+    <string name="report_problem">Виправити дані онлайн</string>
+    <string name="report_problem_thanks_description">"Ваше повідомлення успішно
+відправлено!
+
+Ви отримаєте сповіщення про
+результат"</string>
+    <string name="report_problem_thanks_title">"Дякуємо,
+що повідомили"</string>
+    <string name="resend_code_again">Надіслати код ще раз</string>
+    <string name="resend_otp_in">"Відправити код
+повторно через %s"</string>
+    <string name="reservation_date">Бронювання до:</string>
+    <string name="rnokpp">РНОКПП або номер посвідчення особи</string>
+    <string name="scan_document">Сканувати документ</string>
+    <string name="scanned_card_status_need_clarification_tip">Інформація в реєстрі Оберіг неповна.</string>
+    <string name="scanned_card_status_wanted_tip">Виявлені порушення правил військового обліку.</string>
+    <string name="scanning_subtitle">"Наведіть рамку на QR-код, який
+хочете відсканувати."</string>
+    <string name="scanning_title">Сканування</string>
+    <string name="search">Пошук</string>
+    <string name="search_menu_title">Search</string>
+    <string name="select_tcc">Оберіть ТЦК</string>
+    <string name="select_your_bank">Оберіть свій банк</string>
+    <string name="selected">Selected</string>
+    <string name="send">Надіслати</string>
+    <string name="settings_change_pin_code">Змінити код для входу</string>
+    <string name="settings_header_title">Налаштування</string>
+    <string name="settings_title">Налаштування</string>
+    <string name="settings_use_biometrics_title">Дозволити біометрію</string>
+    <string name="skip">Пропустити</string>
+    <string name="specialization">ВОС:</string>
+    <string name="staff_center_and_sp">ТЦК та СП:</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="status_label_default">Уточнюється</string>
+    <string name="stay">Залишитись</string>
+    <string name="street">Вулиця</string>
+    <string name="switch_role">Switch</string>
+    <string name="tab">Tab</string>
+    <string name="tcc_called_from">ТЦК, який здійснив призов</string>
+    <string name="template_percent">%1$d percent.</string>
+    <string name="thank_you_for_updating_data_subtitle">"Ваша відповідальність —
+приклад для інших!"</string>
+    <string name="thank_you_for_updating_data_title">"Дякуємо,
+що оновили дані"</string>
+    <string name="tooltip_description">tooltip</string>
+    <string name="tooltip_label">show tooltip</string>
+    <string name="unique_number">Номер в реєстрі Оберіг:</string>
+    <string name="unlim">завершення мобілізації</string>
+    <string name="update">Оновити</string>
+    <string name="viber_support_title">Viber</string>
+    <string name="welcome_begin">Розпочати</string>
+    <string name="welcome_description">Щоб отримати військово-обліковий документ, пройдіть три швидкі кроки</string>
+    <string name="welcome_link">Будь ласка, ознайомтесь зі змістом &lt;a href=https://reserveplus.mod.gov.ua/privacy/>Повідомлення про обробку персональних даних&lt;/a></string>
+    <string name="welcome_step_1">Авторизуйтесь за допомогою Системи BankID НБУ</string>
+    <string name="welcome_step_2">"Підтвердіть або уточніть персональні дані (лише при першій авторизації):
+ ⬥ мобільний телефон
+ ⬥ email адресу
+ ⬥ поточну адресу проживання"</string>
+    <string name="welcome_step_3">Задайте пароль та налаштування входу за біометричними даними</string>
+    <string name="welcome_title">Привіт!</string>
+    <string name="wrong_otp_try_again">Невірний код, спробуйте ще</string>
+    <string name="yes_this_is_my_address">Так, це моя адреса</string>
+    <string name="yes_this_is_my_number">Так, це мій номер</string>
+    <string name="your_address_title">"Ваша адреса
+проживання"</string>
+    <string name="your_email_subtitle">"Вкажіть актуальну електронну
+пошту — на неї прийде код підтвердження."</string>
+    <string name="your_email_title">Ваш email</string>
+    <string name="your_phone_number_subtitle">Вкажіть актуальний номер — на нього прийде код підтвердження.</string>
+    <string name="your_phone_number_title">Ваш мобільний номер</string>
+</resources>
